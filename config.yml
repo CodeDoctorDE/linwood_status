@@ -1,0 +1,11 @@
+title: Linwood Status
+name: linwood_status
+description: Status of the discord bot linwood
+defaultLocale: en
+locales:
+  - code: en
+    iso: en-US
+    name: English
+    file: en.json
+content:
+  frontMatterFormat: json
